@@ -27,7 +27,18 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Enzo Silva Xavier 💻
+Davi Afonso Pereira Chaves 📖
+Gabriel Lucas de Paula Gomes 🚇 
+Victor de Souza Silva ⚠️
+Enzo Enrique Freitas Papa 🐛 
+Rafael Pires Rehfeld Gonçalves 🤔
+Gabriel Dias Venancio do Carmo 👀 
+Marcelo Laurentino Costa Melo 🎨
+
+
+
+
 
 # Licença
 
