@@ -32,7 +32,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 
 
-<a href="https://github.com/ViictorSS"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
+<a href="https://www.instagram.com/_viictorss/"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
 
 
 
