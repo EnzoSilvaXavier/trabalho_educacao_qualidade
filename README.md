@@ -37,6 +37,9 @@ Gabriel Dias Venancio do Carmo 👀
 Marcelo Laurentino Costa Melo 🎨
 
 
+ <a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares </b></sub></a><br /> <b>Líder de Projeto </b>
+
+
 
 
 
