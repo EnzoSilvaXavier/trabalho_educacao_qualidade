@@ -1,7 +1,7 @@
-# Título do Projeto
+# Edudação de Qualidade 
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://img.freepik.com/free-vector/abstract-banner-background-with-red-shapes_1361-3348.jpg?size=626&ext=jpg)
 
 # Sobre o Projeto
 
