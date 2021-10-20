@@ -27,15 +27,6 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-Enzo Silva Xavier 💻
-Davi Afonso Pereira Chaves 📖
-Gabriel Lucas de Paula Gomes 🚇 
-Victor de Souza Silva ⚠️
-Enzo Enrique Freitas Papa 🐛 
-Rafael Pires Rehfeld Gonçalves 🤔
-Gabriel Dias Venancio do Carmo 👀 
-Marcelo Laurentino Costa Melo 🎨
-
 
 
 <a href="https://github.com/ViictorSS"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
