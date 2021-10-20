@@ -38,7 +38,7 @@ Marcelo Laurentino Costa Melo 🎨
 
 
 
-<a href="https://github.com/ViictorSS/ViictorSS"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>Líder de Projeto </
+<a href="https://github.com/ViictorSS/ViictorSS"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
 
 
 
