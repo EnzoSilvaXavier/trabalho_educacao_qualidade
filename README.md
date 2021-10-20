@@ -39,8 +39,6 @@ Marcelo Laurentino Costa Melo 🎨
 
  <a href="https://github.com/WillianGomesSoares"><img src="https://avatars.githubusercontent.com/u/89430965?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares </b></sub></a><br /> <b>Líder de Projeto </
 
-	 <a href="https://github.com/rehfeld13"><img src=![image](https://user-images.githubusercontent.com/88861731/138187445-aa1ce18c-1ce6-48d1-8738-d2d03f9511f5.png)
-=4" width="100px;" alt=""/><br /><sub><b>Rafael Pires </b></sub></a><br 
 
 
 
