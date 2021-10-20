@@ -28,13 +28,13 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 
-<a href="https://github.com/EnzoPapa"><img src="https://www.instagram.com/p/CLMPclvFZIBH_j48kR_ul3Q3egbqZoqsUaOTZI0/" width="100px;" alt=""/><br /><sub><b>Enzo Papa </b></sub></a><br /> <b>
+<a href="https://github.com/EnzoPapa"><img src="https://www.instagram.com/p/CLMPclvFZIBH_j48kR_ul3Q3egbqZoqsUaOTZI0/" width="100px;" alt=""/><br /><sub><b>Enzo Papa </b></sub></a>< /> <b>
 
 
 <a href="https://github.com/rehfeld13"><img src=https://avatars.githubusercontent.com/u/88861731?s=400&u=8814fbd7a966e7618aaf9665d28c8e98e49e67d8&v=4" width="100px;" alt=""/><br /><sub><b>Rafael Pires</b></sub></a><br /> <b>
 	
 
-<a href="https://www.instagram.com/_viictorss/"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
+<a href="https://www.instagram.com/_viictorss/"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a>< /> <b>
 
 
 
