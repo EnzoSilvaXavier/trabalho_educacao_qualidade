@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O projeto Educação de qualidade, tem o intuito de levantar as difucultades existentes pelas crianças, as quais estão inseridas nas creches públicas, inseridas nas comunidades do País. Nesse contexto, também, avaliamos a qualidade do ensino, a infrestrutura, funcionamento, o desenvolvimento das crianças e diversos outros topícos, os quais são intríncicos ao desenvolvimento e aprendizados das crianças do País.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -15,30 +15,11 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
-# Requisitos Funcionais 
-
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
-
-# Tecnologias Usadas
-
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
@@ -54,4 +35,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Em primeiro lugar, а Deus, qυе fez com que nossos objetivos fossem alcançados, durante todos o tempo de elaboração do projeto. A todos os integrantes do grupo e amigos, por todo o apoio e pela ajuda, que muito contribuíram para a realização deste trabalho.
