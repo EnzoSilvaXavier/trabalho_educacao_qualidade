@@ -36,6 +36,26 @@ Rafael Pires Rehfeld Gonçalves 🤔
 Gabriel Dias Venancio do Carmo 👀 
 Marcelo Laurentino Costa Melo 🎨
 
+{
+  "projectName": "react-testing-library",
+  "projectOwner": "testing-library",
+  "repoType": "github",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "skipCi": false,
+  "contributors": [
+    {
+      "login": "WillianGomesSoares",
+      "name": "Willian Gomes Soares",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89430965?s=96&v=4",
+      "profile": "https://github.com/WillianGomesSoares",
+      "contributions": [
+        "doc"
+      ]
+     }
 
 
 
