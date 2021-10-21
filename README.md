@@ -31,8 +31,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 <a href="https://github.com/EnzoPapa"><img src="https://avatars.githubusercontent.com/u/90208620?s=400&u=a9eed2bb85a6bb6a45af74a4f53ee0e481213bda&v=4" width="100px;" alt=""/><br /><sub><b>Enzo Papa </b></sub></a><br /> 
 
 
-
-<a href="https://www.instagram.com/_viictorss/"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a> /> 
+ <a href="https://github.com/ViictorSS/ViictorSS"><img src="https://avatars.githubusercontent.com/u/90292206?v=4" width="100px;" alt=""/><br /><sub><b>Victor S. Silva </b></sub></a><br /> <b>
 
 
 
