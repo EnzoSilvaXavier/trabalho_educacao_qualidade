@@ -29,7 +29,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 <a href="https://github.com/DaviAfonso88"><img src="https://avatars.githubusercontent.com/u/89953265?v=4" width="100px;" alt=""/><br /><sub><b>Davi Afonso </b></sub></a>
 
-href="https://github.com/EnzoPapa"><img src="https://avatars.githubusercontent.com/u/90208620?s=400&u=a9eed2bb85a6bb6a45af74a4f53ee0e481213bda&v=4" width="100px;" alt=""/><br /><sub><b>Enzo Papa </b></sub></a><br />
+<a href="https://github.com/EnzoPapa"><img src="https://avatars.githubusercontent.com/u/90208620?s=400&u=a9eed2bb85a6bb6a45af74a4f53ee0e481213bda&v=4" width="100px;" alt=""/><br /><sub><b>Enzo Papa </b></sub></a><br />
 
 <a href="https://github.com/gabriellucas11"><img src="https://avatars.githubusercontent.com/u/86935074?s=400&u=77dfdf29f143ceb6f518b214d871b71442608e23&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Lucas de Paula Gomes </b></sub></a> <b> 
 	
