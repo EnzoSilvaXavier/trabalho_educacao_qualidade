@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 O projeto Educação de qualidade, tem o intuito de levantar as difucultades existentes pelas crianças, as quais estão inseridas nas creches públicas, inseridas nas comunidades do País. Nesse contexto, também, avaliamos a qualidade do ensino, a infrestrutura, funcionamento, o desenvolvimento das crianças e diversos outros topícos, os quais são intríncicos ao desenvolvimento e aprendizados das crianças do País.
-<a href="https://docs.google.com/presentation/d/1GMJTLJsauWUn5O9A3SisX2P55I_Jn0IN/edit#slide=id.p1"
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
