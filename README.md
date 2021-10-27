@@ -1,7 +1,7 @@
 # Edudação de Qualidade 
 
 
-![Capa do Projeto](https://drive.google.com/file/d/17o05GBCreS-If30kqOpp9BnhxToGKyja/view)
+![Capa do Projeto](https://drive.google.com/file/d/17o05GBCreS-If30kqOpp9BnhxToGKyja/view?usp=sharing)
 
 # Sobre o Projeto
 
