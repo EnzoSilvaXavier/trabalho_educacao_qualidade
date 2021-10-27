@@ -1,7 +1,7 @@
 # Edudação de Qualidade 
 
 
-![Capa do Projeto](http://www.mpgo.mp.br/portal/imagens/2018/01/17/17_23_37_817_educa%C3%A7%C3%A3o_ensino_infantil_escola_livros.jpg)
+![Capa do Projeto](https://drive.google.com/file/d/17o05GBCreS-If30kqOpp9BnhxToGKyja/view)
 
 # Sobre o Projeto
 
