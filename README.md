@@ -19,6 +19,7 @@ Segue o nosso PDF resumindo nosso trabalho, em 2 idiomas: Inglês e Português!
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
+* [Instruções dos Autores}(#instruções-dos-autores)
 * [Sumário](#índice/sumário)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
