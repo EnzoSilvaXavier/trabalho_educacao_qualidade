@@ -8,9 +8,13 @@
 O projeto Educação de qualidade, tem o intuito de levantar as difucultades existentes pelas crianças, as quais estão inseridas nas creches públicas, inseridas nas comunidades do País. Nesse contexto, também, avaliamos a qualidade do ensino, a infrestrutura, funcionamento, o desenvolvimento das crianças e diversos outros topícos, os quais são intríncicos ao desenvolvimento e aprendizados das crianças do País.
 
 # Instruções dos Autores
-Segue o nosso PDF resumindo nosso trabalho, em 2 idiomas: Inglês e Português!
+Segue o nosso PDF resumindo nosso projeto, em 2 idiomas: Inglês e Português!
 
 [PDFtrabalhaoEducaçãoDeQualidade (3) (1).pdf](https://github.com/EnzoSilvaXavier/trabalho_educacao_qualidade/files/7470380/PDFtrabalhaoEducacaoDeQualidade.3.1.pdf)
+
+# Slide do Projeto
+
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
