@@ -10,7 +10,7 @@ O projeto Educação de qualidade, tem o intuito de levantar as difucultades exi
 # Instruções dos Autores
 Segue o nosso PDF resumindo nosso trabalho, em 2 idiomas: Inglês e Português!
 
-PDFtrabalhaoEducaçãoDeQualidade%20(3)%20(1).pdf
+file:///C:/Users/rafae/Downloads/PDFtrabalhaoEduca%C3%A7%C3%A3oDeQualidade%20(3)%20(1).pdf
 
 
 <h4 align="center"> 
