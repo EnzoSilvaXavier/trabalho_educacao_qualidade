@@ -17,7 +17,7 @@ Segue o nosso PDF resumindo nosso projeto, em 2 idiomas: Inglês e Português!
 
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+https://www.dropbox.com/s/ig5dwl1qd44zaw0/Vida%20e%20Carreira.mp4?dl=0
 </h4>
 
 # Índice/Sumário
