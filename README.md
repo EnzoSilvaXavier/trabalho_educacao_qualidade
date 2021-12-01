@@ -12,7 +12,7 @@ Segue o nosso PDF resumindo nosso projeto, em 2 idiomas: Inglês e Português!
 
 [PDFtrabalhaoEducaçãoDeQualidade (3) (1).pdf](https://github.com/EnzoSilvaXavier/trabalho_educacao_qualidade/files/7470380/PDFtrabalhaoEducacaoDeQualidade.3.1.pdf)
 
-# Slide do Projeto
+# Vídeo apresentando projeto
 
 
 
